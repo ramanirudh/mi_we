@@ -12,7 +12,7 @@ then, you can activate the module called "embeddings" (with the switch "m") and 
 
 Here is an example:
 
-        java -jar meteor-1.4.jar test reference -l hi -m 'exact stem synonym embeddings ' -emb ./resources/word-embeddings/fasttext_50 -embTh 0.85
+        java -jar meteor-1.4.jar test reference -l en -m 'exact stem synonym embeddings ' -emb ./resources/word-embeddings/embeddings.en -embTh 0.85
         
 For our work, we have used pre-trained word embeddings from the paper entitled '"A Passage to India": Pre-trained Word Embeddings for Indian Languages' (https://www.cfilt.iitb.ac.in/~diptesh/embeddings/). 
 
