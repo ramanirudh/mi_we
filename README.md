@@ -14,7 +14,7 @@ Here is an example:
 
         java -jar meteor-1.4.jar test reference -l en -m 'exact stem synonym embeddings ' -emb ./resources/word-embeddings/embeddings.en -embTh 0.85
         
-For our work, we have used pre-trained word embeddings from the paper titled '"A Passage to India": Pre-trained Word Embeddings for Indian Languages' (https://www.cfilt.iitb.ac.in/~diptesh/embeddings/). 
+For our work, we have used pre-trained word embeddings from the paper titled "A Passage to India": Pre-trained Word Embeddings for Indian Languages (https://aclanthology.org/2020.sltu-1.49/) 
 
 If you use this code, please cite the following work:
 
