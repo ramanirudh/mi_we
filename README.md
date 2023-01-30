@@ -14,25 +14,8 @@ Here is an example:
 
         java -jar meteor-1.4.jar test reference -l en -m 'exact stem synonym embeddings ' -emb ./resources/word-embeddings/embeddings.en -embTh 0.85
         
-For our work, we have used pre-trained word embeddings from the paper entitled '"A Passage to India": Pre-trained Word Embeddings for Indian Languages' (https://www.cfilt.iitb.ac.in/~diptesh/embeddings/). 
+For our work, we have used pre-trained word embeddings from the paper titled '"A Passage to India": Pre-trained Word Embeddings for Indian Languages' (https://www.cfilt.iitb.ac.in/~diptesh/embeddings/). 
 
 If you use this code, please cite the following work:
 
-https://link.springer.com/chapter/10.1007/978-981-16-6624-7_3
-
-@InProceedings{10.1007/978-981-16-6624-7_3,
-author="Anirudh, Ch Ram
-and Murthy, Kavi Narayana",
-editor="Satapathy, Suresh Chandra
-and Peer, Peter
-and Tang, Jinshan
-and Bhateja, Vikrant
-and Ghosh, Anumoy",
-title="Machine Translation System Combination with Enhanced Alignments Using Word Embeddings",
-booktitle="Intelligent Data Engineering and Analytics",
-year="2022",
-publisher="Springer Nature Singapore",
-address="Singapore",
-pages="19--29",
-isbn="978-981-16-6624-7"
-}
+Anirudh, C.R., Murthy, K.N. (2022). Machine Translation System Combination with Enhanced Alignments Using Word Embeddings. In: Satapathy, S.C., Peer, P., Tang, J., Bhateja, V., Ghosh, A. (eds) Intelligent Data Engineering and Analytics. Smart Innovation, Systems and Technologies, vol 266. Springer, Singapore. https://doi.org/10.1007/978-981-16-6624-7_3
